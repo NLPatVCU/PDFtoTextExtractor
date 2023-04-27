@@ -16,8 +16,12 @@ Steps:
 Depending on your work load either use **main.py** if you want a graphical interface or **maincli.py** to use command line argumets
 
 For __mainCLI.py__ you can use either syntax
-`python3 main.py PDFfile`   or
+<br>
+`python3 main.py PDFfile`   
+or 
+<br>
 `python3 main.py PDFfile -o outputFileName`
 
 For __visualizer.py__ the syntax is
+<br>
 `python3 visualizer.py PDFfile`
