@@ -1,0 +1,12 @@
+fitz
+frontend
+matplot
+py-pdf-parser
+pdfplumber
+pdf2image
+pymupdf
+pytesseract
+pyvoronoi
+pdfminer.six==20191110
+shapely
+tk
