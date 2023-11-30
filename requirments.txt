@@ -1,12 +1,12 @@
 fitz
 frontend
 matplot
-py-pdf-parser
+py-pdf-parser==20220524
 pdfplumber
 pdf2image
 pymupdf
 pytesseract
 pyvoronoi
-pdfminer.six==20191110
+pdfminer.six==20220524
 shapely
 tk
