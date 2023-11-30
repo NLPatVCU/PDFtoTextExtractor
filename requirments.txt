@@ -1,12 +1,12 @@
-fitz
 frontend
 matplot
 py-pdf-parser==0.11.0
 pdfplumber
 pdf2image
-pymupdf
+PyMuPDF==1.18.17
 pytesseract
 pyvoronoi
 pdfminer.six==20220524
 shapely
 tk
+tools==0.1.9
