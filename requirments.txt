@@ -1,7 +1,7 @@
 fitz
 frontend
 matplot
-py-pdf-parser==20220524
+py-pdf-parser==0.11.0
 pdfplumber
 pdf2image
 pymupdf
